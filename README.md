@@ -1,2 +1,1 @@
-# haid-group.github.com
-haid.group
+# haid.group
